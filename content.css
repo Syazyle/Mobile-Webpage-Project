@@ -1,0 +1,13 @@
+.overview-preview-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 20vw;
+    margin: 20vw 5vw 0vw;
+    column-gap: 5vw;
+    row-gap: 5vw;
+}
+
+.sayang-graduation {
+    margin: 0px 0px;
+    width: 100%;
+}
