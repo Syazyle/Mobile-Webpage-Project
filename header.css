@@ -18,7 +18,7 @@
 }
 
 .box-icon {
-    width: 35%;
+    width: 15vw;
 }
 
 .middle-section {
@@ -33,10 +33,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Pacifico', Arial;
     color: coral;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 5vw;
+    line-height: 6vw;
 }
 
 .right-section {
@@ -47,5 +48,5 @@
 }
 
 .menu-icon {
-    width: 35%;
+    width: 15vw;
 }
